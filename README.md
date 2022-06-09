@@ -1,2 +1,0 @@
-# pokemons.github.io
-Pokedex
